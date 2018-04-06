@@ -1,2 +1,2 @@
 # tartan-generator
-Rnadom tartan generator
+Random tartan generator
